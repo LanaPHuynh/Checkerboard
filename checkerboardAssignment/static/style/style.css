@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+
+table {
+    border-collapse: collapse;
+    width: 430px;
+}
+
+table tr{
+    height: 50px;
+}
+  
+table td {
+    width: 50px;
+}
+
+.color1{
+    background-color: red;
+}
+
+.color2{
+    background-color: black;    
+}
